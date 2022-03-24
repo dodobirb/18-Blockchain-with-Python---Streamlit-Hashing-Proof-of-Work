@@ -1,5 +1,5 @@
-# Module_18_Challenge
-FinTech Boot Camp Module 18: Blockchain with Python - Streamlit, Hashing, & Proof-of-Work
+# 18: Blockchain with Python - Streamlit, Hashing, & Proof-of-Work
+FinTech Boot Camp Module 18 Challenge
 
 ---
 
